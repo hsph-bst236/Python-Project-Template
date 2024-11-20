@@ -1,5 +1,10 @@
 # Data Science Project Template
 
+## To Do
+
+- [ ] Add sample raw data (data_raw.csv eg) and sample preprocessing code
+- [ ] Add the pipeline for configuration management
+
 ## Project Structure
 
 ```
